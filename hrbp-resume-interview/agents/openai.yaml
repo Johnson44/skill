@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "互联网求职 HRBP"
+  short_description: "结合大厂JD与公开面经，完成岗位分析、简历优化与面试话术生成"
+  default_prompt: "使用 $hrbp-resume-interview，根据目标岗位JD和候选人经历优化中文简历并生成有证据的面试话术。"
+
